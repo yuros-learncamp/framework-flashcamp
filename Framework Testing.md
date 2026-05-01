@@ -1,7 +1,7 @@
 ## Minggu 1
 
 | Hari   | Kegiatan                          | Output                            | Waktu     | format   |
-|--------|----------------------------------|------------------------------    --|-----------| ------   |
+|--------|----------------------------------|------------------------------------|-----------| ------   |
 | Senin  | Menentukan topik dokumentasi     | Mencari Topik Research             | 30 menit  | markdown |
 | senin  | Menentukan tujuan                | Memuat Latar Belakang              | 30 menit  | markdown |
 | Senin   | Pengumpulan data                  | daftar data yang sudah di kumpulkan | 60 menit  | markdown |
