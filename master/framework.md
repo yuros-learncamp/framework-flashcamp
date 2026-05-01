@@ -668,58 +668,58 @@ buat content harian
 
 
 ## hellgate
-|hari  | Divisi / PIC    | Kegiatan Teknis           | Deskripsi Tugas                                                  | Output                          | Waktu   |
-|----- | ----------------| ------------------------- | -----------------------------------------------------------------| ------------------------------- | --------|
-|Senin| Ketua Pelaksana | Koordinasi Kegiatan       | Memastikan seluruh rangkaian workshop berjalan sesuai rundown     | Kegiatan berjalan terkoordinasi | 15 menit |
-|Senin| Pengajar        | Membuka dan Mengatur Sesi | Membuka acara, mengatur transisi sesi, dan menjaga alur diskusi   | Sesi workshop tertata           | 10 menit |
-|Senin| Pengajar        | Penyampaian Materi        | Menjelaskan materi, demo praktik, dan menjawab pertanyaan peserta | Materi tersampaikan             | 120 menit|
-|Senin| Divisi promosi  | Dokumentasi Kegiatan      | Mengambil foto, video, dan dokumentasi proses workshop            | Arsip dokumentasi kegiatan      | 10 menit |
-|Senin| Pengajaran      | Monitoring Pembelajaran   | Mengumpulkan feedback, quiz, dan hasil praktik peserta            | Data evaluasi workshop          | 10 menit |
-|Senin| Tim teknis      | Pengelolaan Peralatan     | Mengatur distribusi dan pengembalian alat workshop                | Peralatan terkontrol            | 10 menit |
-|Senin| Tim teknis      | Closing dan Cleanup       | Penutupan acara, evaluasi internal, dan merapikan lokasi          | Workshop selesai dengan rapi    | 10 menit |
+|hari  | Kegiatan Teknis           | Deskripsi Tugas                                                  | Output                          | Waktu   |
+|----- | ------------------------- | -----------------------------------------------------------------| ------------------------------- | --------|
+|Senin|checking alat                | Memastikan seluruh rangkaian workshop berjalan sesuai rundown     | Kegiatan berjalan terkoordinasi | 15 menit |
+|Senin| Membuka dan Mengatur Sesi | Membuka acara, mengatur transisi sesi, dan menjaga alur diskusi   | Sesi workshop tertata           | 10 menit |
+|Senin| Penyampaian Materi        | Menjelaskan materi, demo praktik, dan menjawab pertanyaan peserta | Materi tersampaikan             | 120 menit|
+|Senin| Dokumentasi Kegiatan      | Mengambil foto, video, dan dokumentasi proses workshop            | Arsip dokumentasi kegiatan      | 10 menit |
+|Senin| Monitoring Pembelajaran   | Mengumpulkan feedback, quiz, dan hasil praktik peserta            | Data evaluasi workshop          | 10 menit |
+|Senin| Pengelolaan Peralatan     | Mengatur distribusi dan pengembalian alat workshop                | Peralatan terkontrol            | 10 menit |
+|Senin| Closing dan Cleanup       | Penutupan acara, evaluasi internal, dan merapikan lokasi          | Workshop selesai dengan rapi    | 10 menit |
 
-|hari  | Divisi / PIC    | Kegiatan Teknis           | Deskripsi Tugas                                                  | Output                          | Waktu     |
-|----- | ----------------| ------------------------- | -----------------------------------------------------------------| ------------------------------- | --------  |
-|Selasa| Ketua Pelaksana | Koordinasi Kegiatan       | Memastikan seluruh rangkaian workshop berjalan sesuai rundown     | Kegiatan berjalan terkoordinasi | 15 menit |
-|Selasa| Pengajar        | Membuka dan Mengatur Sesi | Membuka acara, mengatur transisi sesi, dan menjaga alur diskusi   | Sesi workshop tertata           | 10 menit |
-|Selasa| Pengajar        | Penyampaian Materi        | Menjelaskan materi, demo praktik, dan menjawab pertanyaan peserta | Materi tersampaikan             | 120 menit|
-|Selasa| Divisi promosi  | Dokumentasi Kegiatan      | Mengambil foto, video, dan dokumentasi proses workshop            | Arsip dokumentasi kegiatan      | 10 menit |
-|Selasa| Pengajaran      | Monitoring Pembelajaran   | Mengumpulkan feedback, quiz, dan hasil praktik peserta            | Data evaluasi workshop          | 10 menit |
-|Selasa| Tim teknis      | Pengelolaan Peralatan     | Mengatur distribusi dan pengembalian alat workshop                | Peralatan terkontrol            | 10 menit |
-|Selasa| Tim teknis      | Closing dan Cleanup       | Penutupan acara, evaluasi internal, dan merapikan lokasi          | Workshop selesai dengan rapi    | 10 menit |
+|hari  | Kegiatan Teknis           | Deskripsi Tugas                                                  | Output                          | Waktu   |
+|----- | ------------------------- | -----------------------------------------------------------------| ------------------------------- | --------|
+|Selasa|checking alat                | Memastikan seluruh rangkaian workshop berjalan sesuai rundown     | Kegiatan berjalan terkoordinasi | 15 menit |
+|Selasa| Membuka dan Mengatur Sesi | Membuka acara, mengatur transisi sesi, dan menjaga alur diskusi   | Sesi workshop tertata           | 10 menit |
+|Selasa| Penyampaian Materi        | Menjelaskan materi, demo praktik, dan menjawab pertanyaan peserta | Materi tersampaikan             | 120 menit|
+|Selasa| Dokumentasi Kegiatan      | Mengambil foto, video, dan dokumentasi proses workshop            | Arsip dokumentasi kegiatan      | 10 menit |
+|Selasa| Monitoring Pembelajaran   | Mengumpulkan feedback, quiz, dan hasil praktik peserta            | Data evaluasi workshop          | 10 menit |
+|Selasa| Pengelolaan Peralatan     | Mengatur distribusi dan pengembalian alat workshop                | Peralatan terkontrol            | 10 menit |
+|Selasa| Closing dan Cleanup       | Penutupan acara, evaluasi internal, dan merapikan lokasi          | Workshop selesai dengan rapi    | 10 menit |
 
-| Hari | Divisi / PIC    | Kegiatan Teknis        | Deskripsi Tugas                                                     | Output                        | Waktu    |
-| ---- | --------------- | ---------------------- | ------------------------------------------------------------------- | ----------------------------- | -------- |
-| Rabu | Ketua Pelaksana | Koordinasi Ujian       | Memastikan seluruh proses test dan evaluasi berjalan sesuai SOP     | Ujian berjalan terkoordinasi  | 15 menit |
-| Rabu | Pengajar        | Briefing Peserta       | Menjelaskan aturan ujian, sistem pengerjaan, dan teknis pengumpulan | Peserta memahami aturan ujian | 15 menit |
-| Rabu | Pengajar        | Pelaksanaan Test       | Memberikan soal quiz, studi kasus, atau mini project kepada peserta | Test terlaksana               | 90 menit |
-| Rabu | Pengajaran      | Monitoring Peserta     | Memantau pengerjaan peserta dan membantu kendala pembelajaran       | Proses ujian kondusif         | 20 menit |
-| Rabu | Tim Teknis      | Setup Sistem Ujian     | Menyiapkan device, repository, server, atau tools evaluasi          | Sistem ujian siap digunakan   | 20 menit |
-| Rabu | Tim Teknis      | Troubleshooting Teknis | Menangani kendala perangkat, jaringan, atau environment peserta     | Kendala teknis terselesaikan  | 20 menit |
-| Rabu | Divisi Promosi  | Dokumentasi Ujian      | Mengambil dokumentasi proses evaluasi dan aktivitas peserta         | Arsip dokumentasi evaluasi    | 10 menit |
-| Rabu | Pengajaran      | Validasi Hasil Test    | Mengecek hasil tugas, quiz, atau mini project peserta               | Data hasil evaluasi           | 30 menit |
-| Rabu | Pengajaran      | Review & Feedback      | Memberikan evaluasi dan feedback terhadap hasil pengerjaan peserta  | Feedback pembelajaran         | 20 menit |
-| Rabu | Tim Teknis      | Closing & Cleanup      | Penutupan sesi evaluasi dan merapikan perangkat kegiatan            | Area ujian kembali rapi       | 10 menit |
+| Hari | Kegiatan Teknis        | Deskripsi Tugas                                                     | Output                        | Waktu    |
+| ---- | ---------------------- | ------------------------------------------------------------------- | ----------------------------- | -------- |
+| Rabu | Koordinasi Ujian       | Memastikan seluruh proses test dan evaluasi berjalan sesuai SOP     | Ujian berjalan terkoordinasi  | 15 menit |
+| Rabu | Briefing Peserta       | Menjelaskan aturan ujian, sistem pengerjaan, dan teknis pengumpulan | Peserta memahami aturan ujian | 15 menit |
+| Rabu | Pelaksanaan Test       | Memberikan soal quiz, studi kasus, atau mini project kepada peserta | Test terlaksana               | 90 menit |
+| Rabu | Monitoring Peserta     | Memantau pengerjaan peserta dan membantu kendala pembelajaran       | Proses ujian kondusif         | 20 menit |
+| Rabu | Setup Sistem Ujian     | Menyiapkan device, repository, server, atau tools evaluasi          | Sistem ujian siap digunakan   | 20 menit |
+| Rabu | Troubleshooting Teknis | Menangani kendala perangkat, jaringan, atau environment peserta     | Kendala teknis terselesaikan  | 20 menit |
+| Rabu | Dokumentasi Ujian      | Mengambil dokumentasi proses evaluasi dan aktivitas peserta         | Arsip dokumentasi evaluasi    | 10 menit |
+| Rabu | Validasi Hasil Test    | Mengecek hasil tugas, quiz, atau mini project peserta               | Data hasil evaluasi           | 30 menit |
+| Rabu | Review & Feedback      | Memberikan evaluasi dan feedback terhadap hasil pengerjaan peserta  | Feedback pembelajaran         | 20 menit |
+| Rabu | Closing & Cleanup      | Penutupan sesi evaluasi dan merapikan perangkat kegiatan            | Area ujian kembali rapi       | 10 menit |
 
-|hari  | Divisi / PIC    | Kegiatan Teknis           | Deskripsi Tugas                                                  | Output                          | Waktu   |
-|----- | ----------------| ------------------------- | -----------------------------------------------------------------| ------------------------------- | --------|
-|Kamis| Ketua Pelaksana | Koordinasi Kegiatan       | Memastikan seluruh rangkaian workshop berjalan sesuai rundown     | Kegiatan berjalan terkoordinasi | 15 menit |
-|Kamis| Pengajar        | Membuka dan Mengatur Sesi | Membuka acara, mengatur transisi sesi, dan menjaga alur diskusi   | Sesi workshop tertata           | 10 menit |
-|Kamis| Pengajar        | Penyampaian Materi        | Menjelaskan materi, demo praktik, dan menjawab pertanyaan peserta | Materi tersampaikan             | 120 menit|
-|Kamis| Divisi promosi  | Dokumentasi Kegiatan      | Mengambil foto, video, dan dokumentasi proses workshop            | Arsip dokumentasi kegiatan      | 10 menit |
-|Kamis| Pengajaran      | Monitoring Pembelajaran   | Mengumpulkan feedback, quiz, dan hasil praktik peserta            | Data evaluasi workshop          | 10 menit |
-|Kamis| Tim teknis      | Pengelolaan Peralatan     | Mengatur distribusi dan pengembalian alat workshop                | Peralatan terkontrol            | 10 menit |
-|Kamis| Tim teknis      | Closing dan Cleanup       | Penutupan acara, evaluasi internal, dan merapikan lokasi          | Workshop selesai dengan rapi    | 10 menit |
+|hari  | Kegiatan Teknis           | Deskripsi Tugas                                                  | Output                          | Waktu   |
+|----- | ------------------------- | -----------------------------------------------------------------| ------------------------------- | --------|
+|kamis|checking alat                | Memastikan seluruh rangkaian workshop berjalan sesuai rundown     | Kegiatan berjalan terkoordinasi | 15 menit |
+|kamis| Membuka dan Mengatur Sesi | Membuka acara, mengatur transisi sesi, dan menjaga alur diskusi   | Sesi workshop tertata           | 10 menit |
+|kamis| Penyampaian Materi        | Menjelaskan materi, demo praktik, dan menjawab pertanyaan peserta | Materi tersampaikan             | 120 menit|
+|kamis| Dokumentasi Kegiatan      | Mengambil foto, video, dan dokumentasi proses workshop            | Arsip dokumentasi kegiatan      | 10 menit |
+|kamis| Monitoring Pembelajaran   | Mengumpulkan feedback, quiz, dan hasil praktik peserta            | Data evaluasi workshop          | 10 menit |
+|kamis| Pengelolaan Peralatan     | Mengatur distribusi dan pengembalian alat workshop                | Peralatan terkontrol            | 10 menit |
+|kamis| Closing dan Cleanup       | Penutupan acara, evaluasi internal, dan merapikan lokasi          | Workshop selesai dengan rapi    | 10 menit |
 
-|hari  | Divisi / PIC    | Kegiatan Teknis           | Deskripsi Tugas                                                  | Output                          | Waktu     |
-|----- | ----------------| ------------------------- | -----------------------------------------------------------------| ------------------------------- | --------  |
-|Jumat| Ketua Pelaksana | Koordinasi Kegiatan       | Memastikan seluruh rangkaian workshop berjalan sesuai rundown     | Kegiatan berjalan terkoordinasi | 15 menit |
-|Jumat| Pengajar        | Membuka dan Mengatur Sesi | Membuka acara, mengatur transisi sesi, dan menjaga alur diskusi   | Sesi workshop tertata           | 10 menit |
-|Jumat| Pengajar        | Penyampaian Materi        | Menjelaskan materi, demo praktik, dan menjawab pertanyaan peserta | Materi tersampaikan             | 120 menit|
-|Jumat| Divisi promosi  | Dokumentasi Kegiatan      | Mengambil foto, video, dan dokumentasi proses workshop            | Arsip dokumentasi kegiatan      | 10 menit |
-|Jumat| Pengajaran      | Monitoring Pembelajaran   | Mengumpulkan feedback, quiz, dan hasil praktik peserta            | Data evaluasi workshop          | 10 menit |
-|Jumat| Tim teknis      | Pengelolaan Peralatan     | Mengatur distribusi dan pengembalian alat workshop                | Peralatan terkontrol            | 10 menit |
-|Jumat| Tim teknis      | Closing dan Cleanup       | Penutupan acara, evaluasi internal, dan merapikan lokasi          | Workshop selesai dengan rapi    | 10 menit |
+|hari  | Kegiatan Teknis           | Deskripsi Tugas                                                  | Output                          | Waktu   |
+|----- | ------------------------- | -----------------------------------------------------------------| ------------------------------- | --------|
+|Jumat|checking alat                | Memastikan seluruh rangkaian workshop berjalan sesuai rundown     | Kegiatan berjalan terkoordinasi | 15 menit |
+|Jumat| Membuka dan Mengatur Sesi | Membuka acara, mengatur transisi sesi, dan menjaga alur diskusi   | Sesi workshop tertata           | 10 menit |
+|Jumat| Penyampaian Materi        | Menjelaskan materi, demo praktik, dan menjawab pertanyaan peserta | Materi tersampaikan             | 120 menit|
+|Jumat| Dokumentasi Kegiatan      | Mengambil foto, video, dan dokumentasi proses workshop            | Arsip dokumentasi kegiatan      | 10 menit |
+|Jumat| Monitoring Pembelajaran   | Mengumpulkan feedback, quiz, dan hasil praktik peserta            | Data evaluasi workshop          | 10 menit |
+|Jumat| Pengelolaan Peralatan     | Mengatur distribusi dan pengembalian alat workshop                | Peralatan terkontrol            | 10 menit |
+|Jumat| Closing dan Cleanup       | Penutupan acara, evaluasi internal, dan merapikan lokasi          | Workshop selesai dengan rapi    | 10 menit |
 
 
 
