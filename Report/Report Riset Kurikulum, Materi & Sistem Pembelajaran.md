@@ -1,33 +1,49 @@
 ### A. Tujuan Pembelajaran
 - Outcome utama:
+- Skill yang ditargetkan:
 
 ### B. Struktur Materi
 - Modul & topik pembelajaran:
-- Output tiap modul:
+- Urutan pembelajaran:
 
-### C. Kedalaman Materi
+### C. Kedalaman Materi Untuk Peserta
 - Basic:
 - Intermediate:
 - Advanced:
 
-### D. Benchmark
+### D. Silabus Pembelajaran
+- Rencana per pertemuan:
+- Topik tiap sesi:
+- Output tiap sesi:
+
+### E. Modul Pembelajaran
+- Bentuk modul (PDF, slide, video):
+- Isi modul:
+- Standar penyusunan modul:
+
+### F. Rencana Output Peserta
+- Output harian:
+- Output akhir (final project):
+
+### G. Benchmark
 - Standar industri:
 - Referensi materi:
 
-### E. Metode Pembelajaran
+### H. Metode Pembelajaran
 - Live / Recorded:
 - Praktik / Teori:
 
-### F. Sistem Belajar
+### I. Sistem Belajar
 - Project-based / Task-based:
 
-### G. Tools
+### J. Tools
 - Platform:
 - Software:
 
-### H. Interaksi
+### K. Interaksi
 - Mentoring:
 - Diskusi:
+
 
 Tujuan:
 
