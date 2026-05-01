@@ -1,9 +1,9 @@
-# REPORT RISET PASAR
+# REPORT RISET Flashcamp
  ---
  
 ## Penjelasan
 
-Riset pasar digunakan untuk:
+Riset Flashcamp digunakan untuk:
 
 - Menentukan target peserta
 - Mengetahui kebutuhan & masalah (pain point)
@@ -70,3 +70,24 @@ Strategi:
 (-Fokus ke pemula)
 (-Project-based learning)
 (-Harga terjangkau)
+
+### A. Target Peserta
+- Segmentasi:
+- Karakteristik:
+- Tujuan belajar:
+
+### B. Pain Point
+- Masalah utama:
+- Hambatan belajar:
+
+### C. Kebutuhan
+- Skill yang diinginkan:
+- Format belajar yang diinginkan:
+
+### D. Kompetitor
+| Nama | Produk | Kelebihan | Kekurangan | Harga |
+
+### E. Insight & Peluang
+- Tren:
+- Gap market:
+- Opportunity:
