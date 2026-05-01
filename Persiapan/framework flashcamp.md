@@ -30,18 +30,15 @@
 | ------ | ------------------------------------------ | ---------------------------------------------------------------------- | -------- | --------- |
 | Senin  | Penyusunan silabus detail        | Menyusun rincian materi per minggu dan topik pembelajaran | Markdown | 180 menit |
 | Selasa  | Penyusunan silabus detail        | Menyusun rincian materi per minggu dan topik pembelajaran | Markdown | 180 menit |
-| Rabu  | Penyusunan sistem task & evaluasi        | Menyusun task harian, sistem penilaian, dan evaluasi peserta | Markdown | 180 menit |
-| Kamis  | Penyusunan sistem task & evaluasi        | Menyusun task harian, sistem penilaian, dan evaluasi peserta | Markdown | 180 menit |
-| Jumat  | Penyusunan sistem task & evaluasi        | Menyusun task harian, sistem penilaian, dan evaluasi peserta | Markdown | 180 menit |
+| Rabu | Pembuatan template materi & tugas      | Membuat template standar untuk modul dan latihan                      | Markdown | 180 menit  |
+
 
 # Step 5 Riset Persiapan, Curriculum & System Design
 | day    | task                                       | deskripsi output                                                       | format   | time      |
 | ------ | ------------------------------------------ | ---------------------------------------------------------------------- | -------- | --------- |
-| Senin  | Penyusunan sistem task & evaluasi      | Menyusun task harian, sistem penilaian, dan evaluasi peserta          | Markdown | 180 menit  |
+| Senin | Pembuatan template materi & tugas      | Membuat template standar untuk modul dan latihan                      | Markdown | 180 menit  |
 | Selasa | Pembuatan template materi & tugas      | Membuat template standar untuk modul dan latihan                      | Markdown | 180 menit  |
 | Rabu | Pembuatan template materi & tugas      | Membuat template standar untuk modul dan latihan                      | Markdown | 180 menit  |
-| Kamis | Pembuatan template materi & tugas      | Membuat template standar untuk modul dan latihan                      | Markdown | 180 menit  |
-| Jumat | Pembuatan template materi & tugas      | Membuat template standar untuk modul dan latihan                      | Markdown | 180 menit  |
 
 # Step 6 Finalisasi dan Review Materi
 | day    | task                                       | deskripsi output                                                       | format   | time      |
