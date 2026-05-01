@@ -77,7 +77,7 @@ minggu pendaftaran neraka
 #### module
 
 
-#### Rabu (Penyusunan & Review Sesi 1)
+#### Rabu (Penyusunan & Review Sesi 1) sesi = minggu
 | task | output | time |
 |---|---|---|
 | Penyusunan Sesi 1 (Modul 1) | Draft Sesi 1 | 15 Menit |
