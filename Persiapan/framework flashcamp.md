@@ -1,10 +1,10 @@
 # Step 1 Persiapan
 | day    | task                                       | deskripsi output                                                       | format   | time      |
 | ------ | ------------------------------------------ | ---------------------------------------------------------------------- | -------- | --------- |
-| senin  | Riset Kebutuhan untuk flashcamp       | Dokumen riset pasar, riset pelajaran, riset pengajar, kurikulum, teknis | Markdown | 180 menit |
-| selasa  | Riset Kebutuhan untuk flashcamp       |  Dokumen riset  kurikulum | Markdown | 180 menit |
-| rabu  | Riset Kebutuhan untuk flashcamp       | Dokumen riset pelajaran | Markdown | 180 menit |
-| kamis  | Riset Kebutuhan untuk flashcamp        | Dokumen riset pengajar | Markdown | 180 menit |
+| senin  | Riset Pasar       | Dokumen riset pasar | Markdown | 180 menit |
+| selasa  | Riset Kurikulum       |  Dokumen riset  kurikulum | Markdown | 180 menit |
+| rabu  | Riset Pelajaran       | Dokumen riset pelajaran | Markdown | 180 menit |
+| kamis  | Riset Pengajar        | Dokumen riset pengajar | Markdown | 180 menit |
 
 # Step 2 Curriculum & System Design
 | day    | task                                       | deskripsi output                                                       | format   | time      |
@@ -54,7 +54,18 @@ Pelasanaaan akan dilakukan dengan sistem 2 Hari Materi : 1 Hari Ujian
 | Kamis          | Persiapan Eksekusi Acara    | Peserta menyiapkan kebutuhan acara (materi, tools, teknis)                      | Praktik         | 120 menit  |
 | Jumat          | Simulasi, Evaluasi Acara & Penutupan Intensif   | Peserta melakukan simulasi acara dan evaluasi kesiapan Serta penutupan intensif                          | Simulasi        | 120 menit  |
 
-# Step 4 Strategi Promosi
+# Step 4 Teknis Per Week
+
+| Day     | Task        | Deskripsi Output                                                                 | Format        | Time       |
+|---------|------------|----------------------------------------------------------------------------------|---------------|------------|
+| Senin   | Materi     | Peserta memahami konsep dasar materi dan membuat catatan / latihan awal         | Praktik       | 120 menit  |
+| Selasa  | Materi     | Peserta melanjutkan materi dan memperdalam pemahaman melalui latihan            | Praktik       | 120 menit  |
+| Rabu    | Latihan    | Peserta mengerjakan task berdasarkan materi yang telah dipelajari               | Praktik       | 120 menit  |
+| Kamis   | Latihan    | Peserta menyelesaikan task dan melakukan perbaikan hasil                        | Praktik       | 120 menit  |
+| Jumat   | Ujian      | Peserta mengerjakan evaluasi (quiz / mini project) dari materi minggu tersebut  | Evaluasi      | 90 menit   |
+
+
+# Step 5 Strategi Promosi
 
 # Week 1
 | Day     | Task Promosi                    | Deskripsi Output                                                                                                      | Format            | Time       |
