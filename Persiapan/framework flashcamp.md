@@ -5,6 +5,7 @@
 | selasa  | Riset Kurikulum       |  Dokumen riset  kurikulum | Markdown | 180 menit |
 | rabu  | Riset Pelajaran       | Dokumen riset pelajaran | Markdown | 180 menit |
 | kamis  | Riset Pengajar        | Dokumen riset pengajar | Markdown | 180 menit |
+| Jumat  | Finalisasi riset       | Laporan Hasil Riset | Markdown | 180 menit |
 
 # Step 2 Curriculum & System Design
 | day    | task                                       | deskripsi output                                                       | format   | time      |
