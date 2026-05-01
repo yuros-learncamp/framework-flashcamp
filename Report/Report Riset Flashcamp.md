@@ -1,129 +1,77 @@
-# Laporan hasil riset flashcamp
+# LAPORAN RISET
 
-## A. Strategi (arah & positioning flashcamp)
 ---
 
-### a. isi Program
-- Tujuan jangka panjang:
+## 1. RISET PASAR 
+### Hasil Riset:
+- Target market:
+- Kebutuhan utama pasar:
+- Tren yang ditemukan:
+- Kompetitor utama:
 
-### b. Misi Program
-- Cara mencapai visi:
+### Output:
+- Dokumen riset pasar
 
-### c. Target Outcome Peserta
-- Output akhir (kerja, freelance, dll):
+### Insight:
+- 
+- 
+- 
 
-### d. Positioning
-- Tipe program (premium / murah / intensif):
-- Keunggulan utama:
-
-### e. Keunggulan
-- Pembeda dari kompetitor:
-
-### f. Target Skala
-- Peserta per batch:
-- Jumlah batch per tahun:
-
-## B. Operasional (Cara Program Jalan)
 ---
 
-### a. Format Program
-- Online / Offline:
+## 2. RISET KURIKULUM 
+### Hasil Riset:
+- Referensi kurikulum yang digunakan:
+- Struktur kurikulum yang relevan:
+- Gap analisis kurikulum:
+- Benchmark sistem pembelajaran:
 
-### b. Jadwal Intensif
-- Hari:
-- Jam per hari:
+### Output:
+- Dokumen riset kurikulum
 
-### c. Struktur Harian
-- Sesi materi:
-- Sesi praktik:
-- Sesi review:
+### Insight:
+- 
+- 
+- 
 
-### d. Kapasitas
-- Jumlah peserta:
-
-### e. Alur Harian
-1. Brief
-2. Praktik
-3. Submit
-4. Feedback
-
-## C. SDM (Tim Flashcamp)
 ---
 
-### a. Struktur Tim
-- Lead:
-- Mentor:
-- Admin:
+## 3. RISET PELAJARAN 
+### Hasil Riset:
+- Daftar topik utama:
+- Urutan materi yang ideal:
+- Tingkat kesulitan materi:
+- Kebutuhan skill peserta:
 
-### b. Kebutuhan SDM
-| Role | Jumlah | Tugas |
+### Output:
+- Dokumen riset pelajaran
 
-### c. Rasio Mentor
-- Mentor : Peserta
+### Insight:
+- 
+- 
+- 
 
-### d. Sistem Kerja
-- Fulltime selama flashcamp:
-
-## D. Sistem (Tools & Workflow)
 ---
 
-### a. Tools Utama
-- Meeting:
-- Komunikasi:
-- Submission:
+## 4. RISET PENGAJAR 
+### Hasil Riset:
+- Kriteria pengajar ideal:
+- Kompetensi yang dibutuhkan:
+- Referensi pengajar yang sesuai:
+- Standar kualitas pengajaran:
 
-### b. Workflow Task
-1. Instruksi
-2. Kerjakan
-3. Submit
-4. Review cepat
+### Output:
+- Dokumen riset pengajar
 
-### c. Batas waktu feedback
-- Waktu maksimal feedback:
+### Insight:
+- 
+- 
+- 
 
-##  E. Finansial (Biaya & Profit Flashcamp)
 ---
 
-### a. Harga Program
-- Harga per peserta:
-
-### b. Biaya
-| Kategori | Biaya |
-
-### c. Target Peserta
-- Jumlah:
-
-### d. Revenue
-- Total pemasukan:
-
-### e. Profit
-- Estimasi keuntungan:
-
-## F. Peserta (Akuisisi & Retention)
----
-
-### a. Strategi menarik peserta
-- Channel: (media atau tempat untuk mencari peserta)
-- Strategi promosi cepat: (cepat menarik peserta dalam waktu singkat) Contoh: Broadcast WA, Konten viral, Promo terbatas (deadline)
-
-### b. Target Peserta
-- Jumlah per batch:
-
-### c. Keaktifan peserta
-- Reminder harian: *Contoh*
-(Pengingat tugas, Pengingat jadwal)
-- Grup aktif: 
-
-### d.Strategi menjaga peserta tetap aktif
-- Follow up peserta pasif:
-
-## G. Risiko 
----
-
-| Risiko | Dampak | Solusi |
-
-| Risiko             | Dampak        | Solusi         |
-| ------------------ | ------------- | -------------- |
-| Peserta tertinggal | Frustrasi     | Mentor standby |
-| Overload tugas     | Dropout       | Simplifikasi   |
-| Tidak aktif        | Gagal selesai | Reminder       |
+## 5. KESIMPULAN STEP 1
+- Ringkasan hasil riset:
+- Arah kurikulum yang terbentuk:
+- Kesiapan masuk Step 2:
+- Catatan penting:
