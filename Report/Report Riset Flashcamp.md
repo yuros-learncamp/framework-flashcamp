@@ -78,7 +78,7 @@
 3. Submit
 4. Review cepat
 
-### c. SLA Feedback
+### c. Batas waktu feedback
 - Waktu maksimal feedback:
 
 ##  E. Finansial (Biaya & Profit Flashcamp)
@@ -102,16 +102,17 @@
 ## F. Peserta (Akuisisi & Retention)
 ---
 
-### a. Akuisisi
-- Channel:
-- Strategi promosi cepat:
+### a. Strategi menarik peserta
+- Channel: (media atau tempat untuk mencari peserta)
+- Strategi promosi cepat: (cepat menarik peserta dalam waktu singkat) Contoh: Broadcast WA, Konten viral, Promo terbatas (deadline)
 
 ### b. Target Peserta
 - Jumlah per batch:
 
-### c. Engagement
-- Reminder harian:
-- Grup aktif:
+### c. Keaktifan peserta
+- Reminder harian: *Contoh*
+(Pengingat tugas, Pengingat jadwal)
+- Grup aktif: 
 
 ### d.Strategi menjaga peserta tetap aktif
 - Follow up peserta pasif:
