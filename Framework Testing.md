@@ -341,5 +341,146 @@
 |Kamis| Pengelolaan Peralatan     | Mengatur distribusi dan pengembalian alat workshop                | Peralatan terkontrol            | 10 menit |
 |Kamis| Closing dan Cleanup       | Penutupan acara, evaluasi internal, dan merapikan lokasi          | Workshop selesai dengan rapi    | 10 menit |
 
-
-
+# Hellroom 1
+| Hari   | Kegiatan Teknis           | Deskripsi Tugas                                                 | Output                          | Waktu     |
+| ------ | ------------------------- | --------------------------------------------------------------- | ------------------------------- | --------- |
+| Senin  | Checking alat             | Memastikan seluruh rangkaian workshop berjalan sesuai rundown   | Kegiatan berjalan terkoordinasi | 15 menit  |
+| Senin  | Membuka dan Mengatur Sesi | Membuka acara, mengatur transisi sesi, dan menjaga alur diskusi | Sesi workshop tertata           | 10 menit  |
+| Senin  | Penyampaian Materi        | Menjelaskan materi, demo praktik, dan menjawab pertanyaan       | Materi tersampaikan             | 120 menit |
+| Senin  | Dokumentasi Kegiatan      | Mengambil foto, video, dan dokumentasi proses workshop          | Arsip dokumentasi kegiatan      | 10 menit  |
+| Senin  | Monitoring Pembelajaran   | Mengumpulkan feedback, quiz, dan hasil praktik peserta          | Data evaluasi workshop          | 10 menit  |
+| Senin  | Pengelolaan Peralatan     | Mengatur distribusi dan pengembalian alat workshop              | Peralatan terkontrol            | 10 menit  |
+| Senin  | Closing dan Cleanup       | Penutupan acara, evaluasi internal, dan merapikan lokasi        | Workshop selesai dengan rapi    | 10 menit  |
+| Selasa | Checking alat             | Memastikan seluruh rangkaian workshop berjalan sesuai rundown   | Kegiatan berjalan terkoordinasi | 15 menit  |
+| Selasa | Membuka dan Mengatur Sesi | Membuka acara, mengatur transisi sesi, dan menjaga alur diskusi | Sesi workshop tertata           | 10 menit  |
+| Selasa | Penyampaian Materi        | Menjelaskan materi, demo praktik, dan menjawab pertanyaan       | Materi tersampaikan             | 120 menit |
+| Selasa | Dokumentasi Kegiatan      | Mengambil foto, video, dan dokumentasi proses workshop          | Arsip dokumentasi kegiatan      | 10 menit  |
+| Selasa | Monitoring Pembelajaran   | Mengumpulkan feedback, quiz, dan hasil praktik peserta          | Data evaluasi workshop          | 10 menit  |
+| Selasa | Pengelolaan Peralatan     | Mengatur distribusi dan pengembalian alat workshop              | Peralatan terkontrol            | 10 menit  |
+| Selasa | Closing dan Cleanup       | Penutupan acara, evaluasi internal, dan merapikan lokasi        | Workshop selesai dengan rapi    | 10 menit  |
+| Rabu   | Checking alat             | Memastikan seluruh rangkaian workshop berjalan sesuai rundown   | Kegiatan berjalan terkoordinasi | 15 menit  |
+| Rabu   | Membuka dan Mengatur Sesi | Membuka acara, mengatur transisi sesi, dan menjaga alur diskusi | Sesi workshop tertata           | 10 menit  |
+| Rabu   | Penyampaian Materi        | Menjelaskan materi, demo praktik, dan menjawab pertanyaan       | Materi tersampaikan             | 120 menit |
+| Rabu   | Dokumentasi Kegiatan      | Mengambil foto, video, dan dokumentasi proses workshop          | Arsip dokumentasi kegiatan      | 10 menit  |
+| Rabu   | Monitoring Pembelajaran   | Mengumpulkan feedback, quiz, dan hasil praktik peserta          | Data evaluasi workshop          | 10 menit  |
+| Rabu   | Pengelolaan Peralatan     | Mengatur distribusi dan pengembalian alat workshop              | Peralatan terkontrol            | 10 menit  |
+| Rabu   | Closing dan Cleanup       | Penutupan acara, evaluasi internal, dan merapikan lokasi        | Workshop selesai dengan rapi    | 10 menit  |
+| Kamis  | Checking alat             | Memastikan seluruh rangkaian workshop berjalan sesuai rundown   | Kegiatan berjalan terkoordinasi | 15 menit  |
+| Kamis  | Membuka dan Mengatur Sesi | Membuka acara, mengatur transisi sesi, dan menjaga alur diskusi | Sesi workshop tertata           | 10 menit  |
+| Kamis  | Ujian        | Menjelaskan materi, demo praktik, dan menjawab pertanyaan       | Materi tersampaikan             | 120 menit |
+| Kamis  | Dokumentasi Kegiatan      | Mengambil foto, video, dan dokumentasi proses workshop          | Arsip dokumentasi kegiatan      | 10 menit  |
+| Kamis  | Monitoring Pembelajaran   | Mengumpulkan feedback, quiz, dan hasil praktik peserta          | Data evaluasi workshop          | 10 menit  |
+| Kamis  | Pengelolaan Peralatan     | Mengatur distribusi dan pengembalian alat workshop              | Peralatan terkontrol            | 10 menit  |
+| Kamis  | Closing dan Cleanup       | Penutupan acara, evaluasi internal, dan merapikan lokasi        | Workshop selesai dengan rapi    | 10 menit  |
+| Jumat  | Checking alat             | Memastikan seluruh rangkaian workshop berjalan sesuai rundown   | Kegiatan berjalan terkoordinasi | 15 menit  |
+| Jumat  | Membuka dan Mengatur Sesi | Membuka acara, mengatur transisi sesi, dan menjaga alur diskusi | Sesi workshop tertata           | 10 menit  |
+| Jumat  | Penyampaian Materi        | Menjelaskan materi, demo praktik, dan menjawab pertanyaan       | Materi tersampaikan             | 120 menit |
+| Jumat  | Ujian      | Mengambil foto, video, dan dokumentasi proses workshop          | Arsip dokumentasi kegiatan      | 10 menit  |
+| Jumat  | Monitoring Pembelajaran   | Mengumpulkan feedback, quiz, dan hasil praktik peserta          | Data evaluasi workshop          | 10 menit  |
+| Jumat  | Pengelolaan Peralatan     | Mengatur distribusi dan pengembalian alat workshop              | Peralatan terkontrol            | 10 menit  |
+| Jumat  | Closing dan Cleanup       | Penutupan acara, evaluasi internal, dan merapikan lokasi        | Workshop selesai dengan rapi    | 10 menit  |
+| Senin  | Checking alat             | Memastikan seluruh rangkaian workshop berjalan sesuai rundown   | Kegiatan berjalan terkoordinasi | 15 menit  |
+| Senin  | Membuka dan Mengatur Sesi | Membuka acara, mengatur transisi sesi, dan menjaga alur diskusi | Sesi workshop tertata           | 10 menit  |
+| Senin  | Penyampaian Materi        | Menjelaskan materi, demo praktik, dan menjawab pertanyaan       | Materi tersampaikan             | 120 menit |
+| Senin  | Dokumentasi Kegiatan      | Mengambil foto, video, dan dokumentasi proses workshop          | Arsip dokumentasi kegiatan      | 10 menit  |
+| Senin  | Monitoring Pembelajaran   | Mengumpulkan feedback, quiz, dan hasil praktik peserta          | Data evaluasi workshop          | 10 menit  |
+| Senin  | Pengelolaan Peralatan     | Mengatur distribusi dan pengembalian alat workshop              | Peralatan terkontrol            | 10 menit  |
+| Senin  | Closing dan Cleanup       | Penutupan acara, evaluasi internal, dan merapikan lokasi        | Workshop selesai dengan rapi    | 10 menit  |
+| Selasa | Checking alat             | Memastikan seluruh rangkaian workshop berjalan sesuai rundown   | Kegiatan berjalan terkoordinasi | 15 menit  |
+| Selasa | Membuka dan Mengatur Sesi | Membuka acara, mengatur transisi sesi, dan menjaga alur diskusi | Sesi workshop tertata           | 10 menit  |
+| Selasa | Penyampaian Materi        | Menjelaskan materi, demo praktik, dan menjawab pertanyaan       | Materi tersampaikan             | 120 menit |
+| Selasa | Dokumentasi Kegiatan      | Mengambil foto, video, dan dokumentasi proses workshop          | Arsip dokumentasi kegiatan      | 10 menit  |
+| Selasa | Monitoring Pembelajaran   | Mengumpulkan feedback, quiz, dan hasil praktik peserta          | Data evaluasi workshop          | 10 menit  |
+| Selasa | Pengelolaan Peralatan     | Mengatur distribusi dan pengembalian alat workshop              | Peralatan terkontrol            | 10 menit  |
+| Selasa | Closing dan Cleanup       | Penutupan acara, evaluasi internal, dan merapikan lokasi        | Workshop selesai dengan rapi    | 10 menit  |
+| Rabu   | Checking alat             | Memastikan seluruh rangkaian workshop berjalan sesuai rundown   | Kegiatan berjalan terkoordinasi | 15 menit  |
+| Rabu   | Membuka dan Mengatur Sesi | Membuka acara, mengatur transisi sesi, dan menjaga alur diskusi | Sesi workshop tertata           | 10 menit  |
+| Rabu   | Penyampaian Materi        | Menjelaskan materi, demo praktik, dan menjawab pertanyaan       | Materi tersampaikan             | 120 menit |
+| Rabu   | Dokumentasi Kegiatan      | Mengambil foto, video, dan dokumentasi proses workshop          | Arsip dokumentasi kegiatan      | 10 menit  |
+| Rabu   | Monitoring Pembelajaran   | Mengumpulkan feedback, quiz, dan hasil praktik peserta          | Data evaluasi workshop          | 10 menit  |
+| Rabu   | Pengelolaan Peralatan     | Mengatur distribusi dan pengembalian alat workshop              | Peralatan terkontrol            | 10 menit  |
+| Rabu   | Closing dan Cleanup       | Penutupan acara, evaluasi internal, dan merapikan lokasi        | Workshop selesai dengan rapi    | 10 menit  |
+| Kamis  | Checking alat             | Memastikan seluruh rangkaian workshop berjalan sesuai rundown   | Kegiatan berjalan terkoordinasi | 15 menit  |
+| Kamis  | Membuka dan Mengatur Sesi | Membuka acara, mengatur transisi sesi, dan menjaga alur diskusi | Sesi workshop tertata           | 10 menit  |
+| Kamis  | Ujian        | Menjelaskan materi, demo praktik, dan menjawab pertanyaan       | Materi tersampaikan             | 120 menit |
+| Kamis  | Dokumentasi Kegiatan      | Mengambil foto, video, dan dokumentasi proses workshop          | Arsip dokumentasi kegiatan      | 10 menit  |
+| Kamis  | Monitoring Pembelajaran   | Mengumpulkan feedback, quiz, dan hasil praktik peserta          | Data evaluasi workshop          | 10 menit  |
+| Kamis  | Pengelolaan Peralatan     | Mengatur distribusi dan pengembalian alat workshop              | Peralatan terkontrol            | 10 menit  |
+| Kamis  | Closing dan Cleanup       | Penutupan acara, evaluasi internal, dan merapikan lokasi        | Workshop selesai dengan rapi    | 10 menit  |
+| Jumat  | Checking alat             | Memastikan seluruh rangkaian workshop berjalan sesuai rundown   | Kegiatan berjalan terkoordinasi | 15 menit  |
+| Jumat  | Membuka dan Mengatur Sesi | Membuka acara, mengatur transisi sesi, dan menjaga alur diskusi | Sesi workshop tertata           | 10 menit  |
+| Jumat  | Penyampaian Materi        | Menjelaskan materi, demo praktik, dan menjawab pertanyaan       | Materi tersampaikan             | 120 menit |
+| Jumat  | Ujian      | Mengambil foto, video, dan dokumentasi proses workshop          | Arsip dokumentasi kegiatan      | 10 menit  |
+| Jumat  | Monitoring Pembelajaran   | Mengumpulkan feedback, quiz, dan hasil praktik peserta          | Data evaluasi workshop          | 10 menit  |
+| Jumat  | Pengelolaan Peralatan     | Mengatur distribusi dan pengembalian alat workshop              | Peralatan terkontrol            | 10 menit  |
+| Jumat  | Closing dan Cleanup       | Penutupan acara, evaluasi internal, dan merapikan lokasi        | Workshop selesai dengan rapi    | 10 menit  |
+| Senin  | Checking alat             | Memastikan seluruh rangkaian workshop berjalan sesuai rundown   | Kegiatan berjalan terkoordinasi | 15 menit  |
+| Senin  | Membuka dan Mengatur Sesi | Membuka acara, mengatur transisi sesi, dan menjaga alur diskusi | Sesi workshop tertata           | 10 menit  |
+| Senin  | Penyampaian Materi        | Menjelaskan materi, demo praktik, dan menjawab pertanyaan       | Materi tersampaikan             | 120 menit |
+| Senin  | Dokumentasi Kegiatan      | Mengambil foto, video, dan dokumentasi proses workshop          | Arsip dokumentasi kegiatan      | 10 menit  |
+| Senin  | Monitoring Pembelajaran   | Mengumpulkan feedback, quiz, dan hasil praktik peserta          | Data evaluasi workshop          | 10 menit  |
+| Senin  | Pengelolaan Peralatan     | Mengatur distribusi dan pengembalian alat workshop              | Peralatan terkontrol            | 10 menit  |
+| Senin  | Closing dan Cleanup       | Penutupan acara, evaluasi internal, dan merapikan lokasi        | Workshop selesai dengan rapi    | 10 menit  |
+| Selasa | Checking alat             | Memastikan seluruh rangkaian workshop berjalan sesuai rundown   | Kegiatan berjalan terkoordinasi | 15 menit  |
+| Selasa | Membuka dan Mengatur Sesi | Membuka acara, mengatur transisi sesi, dan menjaga alur diskusi | Sesi workshop tertata           | 10 menit  |
+| Selasa | Penyampaian Materi        | Menjelaskan materi, demo praktik, dan menjawab pertanyaan       | Materi tersampaikan             | 120 menit |
+| Selasa | Dokumentasi Kegiatan      | Mengambil foto, video, dan dokumentasi proses workshop          | Arsip dokumentasi kegiatan      | 10 menit  |
+| Selasa | Monitoring Pembelajaran   | Mengumpulkan feedback, quiz, dan hasil praktik peserta          | Data evaluasi workshop          | 10 menit  |
+| Selasa | Pengelolaan Peralatan     | Mengatur distribusi dan pengembalian alat workshop              | Peralatan terkontrol            | 10 menit  |
+| Selasa | Closing dan Cleanup       | Penutupan acara, evaluasi internal, dan merapikan lokasi        | Workshop selesai dengan rapi    | 10 menit  |
+| Rabu   | Checking alat             | Memastikan seluruh rangkaian workshop berjalan sesuai rundown   | Kegiatan berjalan terkoordinasi | 15 menit  |
+| Rabu   | Membuka dan Mengatur Sesi | Membuka acara, mengatur transisi sesi, dan menjaga alur diskusi | Sesi workshop tertata           | 10 menit  |
+| Rabu   | Penyampaian Materi        | Menjelaskan materi, demo praktik, dan menjawab pertanyaan       | Materi tersampaikan             | 120 menit |
+| Rabu   | Dokumentasi Kegiatan      | Mengambil foto, video, dan dokumentasi proses workshop          | Arsip dokumentasi kegiatan      | 10 menit  |
+| Rabu   | Monitoring Pembelajaran   | Mengumpulkan feedback, quiz, dan hasil praktik peserta          | Data evaluasi workshop          | 10 menit  |
+| Rabu   | Pengelolaan Peralatan     | Mengatur distribusi dan pengembalian alat workshop              | Peralatan terkontrol            | 10 menit  |
+| Rabu   | Closing dan Cleanup       | Penutupan acara, evaluasi internal, dan merapikan lokasi        | Workshop selesai dengan rapi    | 10 menit  |
+| Kamis  | Checking alat             | Memastikan seluruh rangkaian workshop berjalan sesuai rundown   | Kegiatan berjalan terkoordinasi | 15 menit  |
+| Kamis  | Membuka dan Mengatur Sesi | Membuka acara, mengatur transisi sesi, dan menjaga alur diskusi | Sesi workshop tertata           | 10 menit  |
+| Kamis  | Ujian        | Menjelaskan materi, demo praktik, dan menjawab pertanyaan       | Materi tersampaikan             | 120 menit |
+| Kamis  | Dokumentasi Kegiatan      | Mengambil foto, video, dan dokumentasi proses workshop          | Arsip dokumentasi kegiatan      | 10 menit  |
+| Kamis  | Monitoring Pembelajaran   | Mengumpulkan feedback, quiz, dan hasil praktik peserta          | Data evaluasi workshop          | 10 menit  |
+| Kamis  | Pengelolaan Peralatan     | Mengatur distribusi dan pengembalian alat workshop              | Peralatan terkontrol            | 10 menit  |
+| Kamis  | Closing dan Cleanup       | Penutupan acara, evaluasi internal, dan merapikan lokasi        | Workshop selesai dengan rapi    | 10 menit  |
+| Jumat  | Checking alat             | Memastikan seluruh rangkaian workshop berjalan sesuai rundown   | Kegiatan berjalan terkoordinasi | 15 menit  |
+| Jumat  | Membuka dan Mengatur Sesi | Membuka acara, mengatur transisi sesi, dan menjaga alur diskusi | Sesi workshop tertata           | 10 menit  |
+| Jumat  | Penyampaian Materi        | Menjelaskan materi, demo praktik, dan menjawab pertanyaan       | Materi tersampaikan             | 120 menit |
+| Jumat  | Ujian      | Mengambil foto, video, dan dokumentasi proses workshop          | Arsip dokumentasi kegiatan      | 10 menit  |
+| Jumat  | Monitoring Pembelajaran   | Mengumpulkan feedback, quiz, dan hasil praktik peserta          | Data evaluasi workshop          | 10 menit  |
+| Jumat  | Pengelolaan Peralatan     | Mengatur distribusi dan pengembalian alat workshop              | Peralatan terkontrol            | 10 menit  |
+| Jumat  | Closing dan Cleanup       | Penutupan acara, evaluasi internal, dan merapikan lokasi        | Workshop selesai dengan rapi    | 10 menit  |
+| Senin  | Checking alat             | Memastikan seluruh rangkaian workshop berjalan sesuai rundown   | Kegiatan berjalan terkoordinasi | 15 menit  |
+| Senin  | Membuka dan Mengatur Sesi | Membuka acara, mengatur transisi sesi, dan menjaga alur diskusi | Sesi workshop tertata           | 10 menit  |
+| Senin  | Penyampaian Materi        | Menjelaskan materi, demo praktik, dan menjawab pertanyaan       | Materi tersampaikan             | 120 menit |
+| Senin  | Dokumentasi Kegiatan      | Mengambil foto, video, dan dokumentasi proses workshop          | Arsip dokumentasi kegiatan      | 10 menit  |
+| Senin  | Monitoring Pembelajaran   | Mengumpulkan feedback, quiz, dan hasil praktik peserta          | Data evaluasi workshop          | 10 menit  |
+| Senin  | Pengelolaan Peralatan     | Mengatur distribusi dan pengembalian alat workshop              | Peralatan terkontrol            | 10 menit  |
+| Senin  | Closing dan Cleanup       | Penutupan acara, evaluasi internal, dan merapikan lokasi        | Workshop selesai dengan rapi    | 10 menit  |
+| Selasa | Checking alat             | Memastikan seluruh rangkaian workshop berjalan sesuai rundown   | Kegiatan berjalan terkoordinasi | 15 menit  |
+| Selasa | Membuka dan Mengatur Sesi | Membuka acara, mengatur transisi sesi, dan menjaga alur diskusi | Sesi workshop tertata           | 10 menit  |
+| Selasa | Penyampaian Materi        | Menjelaskan materi, demo praktik, dan menjawab pertanyaan       | Materi tersampaikan             | 120 menit |
+| Selasa | Dokumentasi Kegiatan      | Mengambil foto, video, dan dokumentasi proses workshop          | Arsip dokumentasi kegiatan      | 10 menit  |
+| Selasa | Monitoring Pembelajaran   | Mengumpulkan feedback, quiz, dan hasil praktik peserta          | Data evaluasi workshop          | 10 menit  |
+| Selasa | Pengelolaan Peralatan     | Mengatur distribusi dan pengembalian alat workshop              | Peralatan terkontrol            | 10 menit  |
+| Selasa | Closing dan Cleanup       | Penutupan acara, evaluasi internal, dan merapikan lokasi        | Workshop selesai dengan rapi    | 10 menit  |
+| Rabu   | Checking alat             | Memastikan seluruh rangkaian workshop berjalan sesuai rundown   | Kegiatan berjalan terkoordinasi | 15 menit  |
+| Rabu   | Membuka dan Mengatur Sesi | Membuka acara, mengatur transisi sesi, dan menjaga alur diskusi | Sesi workshop tertata           | 10 menit  |
+| Rabu   | Penyampaian Materi        | Menjelaskan materi, demo praktik, dan menjawab pertanyaan       | Materi tersampaikan             | 120 menit |
+| Rabu   | Dokumentasi Kegiatan      | Mengambil foto, video, dan dokumentasi proses workshop          | Arsip dokumentasi kegiatan      | 10 menit  |
+| Rabu   | Monitoring Pembelajaran   | Mengumpulkan feedback, quiz, dan hasil praktik peserta          | Data evaluasi workshop          | 10 menit  |
+| Rabu   | Pengelolaan Peralatan     | Mengatur distribusi dan pengembalian alat workshop              | Peralatan terkontrol            | 10 menit  |
+| Rabu   | Closing dan Cleanup       | Penutupan acara, evaluasi internal, dan merapikan lokasi        | Workshop selesai dengan rapi    | 10 menit  |
+| Kamis  | Checking alat             | Memastikan seluruh rangkaian workshop berjalan sesuai rundown   | Kegiatan berjalan terkoordinasi | 15 menit  |
+| Kamis  | Membuka dan Mengatur Sesi | Membuka acara, mengatur transisi sesi, dan menjaga alur diskusi | Sesi workshop tertata           | 10 menit  |
+| Kamis  | Ujian        | Menjelaskan materi, demo praktik, dan menjawab pertanyaan       | Materi tersampaikan             | 120 menit |
+| Kamis  | Dokumentasi Kegiatan      | Mengambil foto, video, dan dokumentasi proses workshop          | Arsip dokumentasi kegiatan      | 10 menit  |
+| Kamis  | Monitoring Pembelajaran   | Mengumpulkan feedback, quiz, dan hasil praktik peserta          | Data evaluasi workshop          | 10 menit  |
+| Kamis  | Pengelolaan Peralatan     | Mengatur distribusi dan pengembalian alat workshop              | Peralatan terkontrol            | 10 menit  |
+| Kamis  | Closing dan Cleanup       | Penutupan acara, evaluasi internal, dan merapikan lokasi        | Workshop selesai dengan rapi    | 10 menit  |
+| Jumat  | Checking alat             | Memastikan seluruh rangkaian workshop berjalan sesuai rundown   | Kegiatan berjalan terkoordinasi | 15 menit  |
+| Jumat  | Membuka dan Mengatur Sesi | Membuka acara, mengatur transisi sesi, dan menjaga alur diskusi | Sesi workshop tertata           | 10 menit  |
+| Jumat  | Penyampaian Materi        | Menjelaskan materi, demo praktik, dan menjawab pertanyaan       | Materi tersampaikan             | 120 menit |
+| Jumat  | Ujian      | Mengambil foto, video, dan dokumentasi proses workshop          | Arsip dokumentasi kegiatan      | 10 menit  |
+| Jumat  | Monitoring Pembelajaran   | Mengumpulkan feedback, quiz, dan hasil praktik peserta          | Data evaluasi workshop          | 10 menit  |
+| Jumat  | Pengelolaan Peralatan     | Mengatur distribusi dan pengembalian alat workshop              | Peralatan terkontrol            | 10 menit  |
+| Jumat  | Closing dan Cleanup       | Penutupan acara, evaluasi internal, dan merapikan lokasi        | Workshop selesai dengan rapi    | 10 menit  |
