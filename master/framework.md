@@ -633,7 +633,7 @@ isiskan table
 
 ## logistic
 #### module
-isiskan table
+isiskan 
 
 
 ## cost structure
@@ -643,6 +643,8 @@ isiskan table
 # execution
 
 ## promotion
+scheduling content
+
 
 ## hellgate
 program inti selaman satu bulan lebih
