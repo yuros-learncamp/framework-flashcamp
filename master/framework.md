@@ -1,22 +1,44 @@
 # research
 
 ## trend
-table
+- pra research
+- latar belekang
+- pengumpulan data
+- validasi data
+- reduksi data
+- anilisis
+- penyusunan hasil
+- resolusi
+- laporan demand
 ## demand
-table
+- pra research
+- latar belekang
+- metode ( kuali | kuanti )
+- pengumpulan data
+- validasi data
+- reduksi data
+- anilisis
+- penyusunan hasil
+- resolusi
+- laporan demand
 ## monev
-table
+- pemebelajaran file monev sebelum
   
-
 # prepare
 
 ## sylabus
-- hellgate
-- hellroom 1
-- hellroom 2
-- hellroom 3
-- hellroom 4
-- hellroom 5
+### hellgate
+selection
+### hellroom 1
+pengenalan
+### hellroom 2
+module
+### hellroom 3
+module
+### hellroom 4
+internship
+### hellroom 5
+project
 
 ## content
 
@@ -88,6 +110,8 @@ program lanjutan selama 10 bulan
 
 ## closing
 program penutupan dan pelantikan anggota
+
+- laporan demand
 
 
 # monev
