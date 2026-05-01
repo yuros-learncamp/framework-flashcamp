@@ -70,20 +70,20 @@ Pelasanaaan akan dilakukan dengan sistem 2 Hari Materi : 1 Hari Ujian
 # Week 1
 | Day     | Task Promosi                    | Deskripsi Output                                                                                                      | Format            | Time       |
 |---------|--------------------------------|-----------------------------------------------------------------------------------------------------------------------|-------------------|------------|
-| Senin   | Pembuatan Konten (All Platform)| Membuat konsep & draft konten (IG, TikTok, WA) berisi topik, script, dan desain awal                                 | Perencanaan       | 120 menit  |
-| Selasa  | Pembuatan Konten (All Platform)| Finalisasi konten: desain feed, edit video, dan penulisan caption siap upload                                         | Produksi Konten   | 120 menit  |
-| Rabu    | Upload Konten (All Platform)   | Mengupload konten ke IG, TikTok, dan broadcast WA lengkap dengan caption & CTA                                        | Posting           | 90 menit   |
-| Kamis   | Sharing Session (Live)         | Melakukan live session (Zoom/IG Live) untuk menjelaskan program dan menjawab pertanyaan peserta                      | Live Session      | 120 menit  |
-| Jumat   | Follow Up & Engagement         | Membalas chat, komentar, dan pertanyaan dari calon peserta                                                            | Interaksi         | 60 menit   |
+| Senin   | Riset Konten Promosi                | Meriset konten yang sesuai & mendiskusikannya                    | Riset            | 90 menit   |
+| Selasa   | Pembuatan Konten (All Platform)| Membuat konsep & draft konten (IG, TikTok, WA) berisi topik, script, dan desain awal                                 | Perencanaan       | 120 menit  |
+| Rabu  | Pembuatan Konten (All Platform)| Finalisasi konten: desain feed, edit video, dan penulisan caption siap upload                                         | Produksi Konten   | 120 menit  |
+| Kamis    | Upload Konten (All Platform)   | Mengupload konten ke IG, TikTok, dan broadcast WA lengkap dengan caption & CTA                                        | Posting           | 90 menit   |
+| Jumat   | Sharing Session (Live)         | Melakukan live session (Zoom/IG Live) untuk menjelaskan program dan menjawab pertanyaan peserta                      | Live Session      | 120 menit  |
+
 # Week 2
 | Day     | Task Promosi                    | Deskripsi Output                                                                                                      | Format            | Time       |
 |---------|--------------------------------|-----------------------------------------------------------------------------------------------------------------------|-------------------|------------|
-| Senin   | Riset Konten Promosi                | Meriset konten yang sesuai & mendiskusikannya                    | Riset            | 90 menit   |
-
-| Selasa   | Pembuatan Konten (All Platform)| Membuat konsep & ide konten baru berdasarkan respon minggu sebelumnya                                                 | Perencanaan       | 120 menit  |
-| Rabu  | Pembuatan Konten (All Platform)| Finalisasi konten (desain, video, caption) siap upload                                                                | Produksi Konten   | 120 menit  |
-| Kamis    | Upload Konten (All Platform)   | Mengupload konten ke seluruh platform + broadcast WA                                                                  | Posting           | 90 menit   |
-| Jumat   | Sharing Session (Live)         | Live session untuk edukasi dan promosi lanjutan                                                                       | Live Session      | 120 menit  |
+| Senin   | Pembuatan Konten (All Platform)| Membuat konsep & ide konten baru berdasarkan respon minggu sebelumnya                                                 | Perencanaan       | 120 menit  |
+| Selasa  | Pembuatan Konten (All Platform)| Finalisasi konten (desain, video, caption) siap upload                                                                | Produksi Konten   | 120 menit  |
+| Rabu    | Upload Konten (All Platform)   | Mengupload konten ke seluruh platform + broadcast WA                                                                  | Posting           | 90 menit   |
+| Kamis   | Sharing Session (Live)         | Live session untuk edukasi dan promosi lanjutan                                                                       | Live Session      | 120 menit  |
+| Jumat   | Laporan hasil promosi         | Membuat laporan mengenai hasil promosi                                                            | Interaksi         | 60 menit   |
 
 # Step 6 Monev
 
