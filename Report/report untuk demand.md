@@ -1,6 +1,6 @@
 # STRUKTUR DEMAND RESEARCH
 
-## Pra Research — 30 Menit
+## Pra Research — 
 
 ### Aktivitas
 
@@ -16,7 +16,7 @@
 
 ---
 
-## Latar Belakang — 30 Menit
+## Latar Belakang — 
 
 ### Aktivitas
 
@@ -31,7 +31,7 @@
 
 ---
 
-## Metode Research (Kualitatif / Kuantitatif) — 30 Menit
+## Metode Research (Kualitatif / Kuantitatif) —
 
 ### Aktivitas
 
@@ -77,7 +77,7 @@
 
 ---
 
-## Reduksi Data — 60 Menit
+## Reduksi Data — 
 
 ### Aktivitas
 
@@ -92,7 +92,7 @@
 
 ---
 
-## Analisis Data — 60 Menit
+## Analisis Data — 
 
 ### Aktivitas
 
@@ -108,7 +108,7 @@
 
 ---
 
-## Penyusunan Hasil — 60 Menit
+## Penyusunan Hasil — 
 
 ### Aktivitas
 
@@ -123,7 +123,7 @@
 
 ---
 
-## Resolusi — 60 Menit
+## Resolusi — 
 
 ### Aktivitas
 
@@ -139,7 +139,7 @@
 
 ---
 
-## Laporan Demand — 30 Menit
+## Laporan Demand — 
 
 ### Aktivitas
 
