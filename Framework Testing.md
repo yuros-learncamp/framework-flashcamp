@@ -298,6 +298,11 @@
 | Rabu | Upload Konten (All Platform) | Konten terpublikasi di IG, TikTok, dan WhatsApp Broadcast            | 90 menit  | Posting      |
 | Kamis | Sharing Session (Live)       | Sesi live (Zoom/IG Live) berjalan dan peserta mendapatkan penjelasan | 120 menit | Live Session |
 | Kamis | Laporan Hasil Promosi        | Laporan hasil promosi dan analisis engagement                        | 60 menit  | Report       |
+
+
+# Week 7
+|hari  | Kegiatan Teknis           | Deskripsi Tugas                                                  | Output                          | Waktu   |
+|----- | ------------------------- | -----------------------------------------------------------------| ------------------------------- | --------|
 |Jumat|checking alat                | Memastikan seluruh rangkaian workshop berjalan sesuai rundown     | Kegiatan berjalan terkoordinasi | 15 menit |
 |Jumat| Membuka dan Mengatur Sesi | Membuka acara, mengatur transisi sesi, dan menjaga alur diskusi   | Sesi workshop tertata           | 10 menit |
 |Jumat| Penyampaian Materi        | Menjelaskan materi, demo praktik, dan menjawab pertanyaan peserta | Materi tersampaikan             | 120 menit|
@@ -305,10 +310,6 @@
 |Jumat| Monitoring Pembelajaran   | Mengumpulkan feedback, quiz, dan hasil praktik peserta            | Data evaluasi workshop          | 10 menit |
 |Jumat| Pengelolaan Peralatan     | Mengatur distribusi dan pengembalian alat workshop                | Peralatan terkontrol            | 10 menit |
 |Jumat| Closing dan Cleanup       | Penutupan acara, evaluasi internal, dan merapikan lokasi          | Workshop selesai dengan rapi    | 10 menit |
-
-# Week 7
-|hari  | Kegiatan Teknis           | Deskripsi Tugas                                                  | Output                          | Waktu   |
-|----- | ------------------------- | -----------------------------------------------------------------| ------------------------------- | --------|
 |Senin|checking alat                | Memastikan seluruh rangkaian workshop berjalan sesuai rundown     | Kegiatan berjalan terkoordinasi | 15 menit |
 |Senin| Membuka dan Mengatur Sesi | Membuka acara, mengatur transisi sesi, dan menjaga alur diskusi   | Sesi workshop tertata           | 10 menit |
 |Senin| Penyampaian Materi        | Menjelaskan materi, demo praktik, dan menjawab pertanyaan peserta | Materi tersampaikan             | 120 menit|
