@@ -1,107 +1,125 @@
-### A. Informasi Umum
+# SILABUS FLASHCAMP
+
+---
+
+## 1. IDENTITAS PROGRAM
 - Nama Program:
-- Nama Modul:
 - Durasi:
-- Jadwal (hari & waktu):
+- Metode Pembelajaran: 2 Hari Materi : 1 Hari Ujian
+- Target Peserta:
+- Level Peserta: (Basic / Intermediate / Advanced)
+- Output Akhir:
 
 ---
 
-### B. Tujuan Pembelajaran
-- Peserta memahami:
-- Peserta mampu:
+## 2. CAPAIAN PEMBELAJARAN (LEARNING OUTCOME)
+- Kompetensi utama:
+- Skill teknis yang dikuasai:
+- Skill praktik:
+- Soft skill pendukung:
 
 ---
 
-### C. Rencana Pembelajaran (Silabus)
-
-Pertemuan / Hari:
-- Topik:
-- Penjelasan singkat:
-- Aktivitas:
-- Tugas:
-- Output (hasil yang harus dibuat):
+## 3. STRUKTUR PEMBELAJARAN
+- Minggu 1: Fondasi Materi
+- Minggu 2: Pengembangan Skill
+- Minggu 3: Pendalaman & Latihan Intensif
+- Minggu 4: Implementasi & Project Akhir
 
 ---
 
-### D. Metode Pembelajaran
-- Cara belajar (praktik / demo / diskusi):
-- Rasio teori & praktik:
+## 4. RINCIAN MATERI PER MINGGU
 
 ---
 
-### E. Tools & Media
-- Software:
-- Platform:
+### WEEK 1 – DASAR PEMBELAJARAN
+**Fokus:** Pengenalan konsep dasar dan fundamental
+
+Materi:
+- Materi dasar 1
+- Materi dasar 2
+- Materi dasar 3
+
+Aktivitas:
+- Latihan dasar harian
+- Tugas praktik sederhana
+- Ujian materi dasar
+
+Output:
+- Pemahaman konsep dasar
+- Hasil evaluasi minggu 1
 
 ---
 
-### F. Evaluasi
-- Cara penilaian:
-- Bentuk feedback:
+### WEEK 2 – PENGEMBANGAN SKILL
+**Fokus:** Penguatan konsep dan praktik lanjutan
+
+Materi:
+- Materi lanjutan 1
+- Materi lanjutan 2
+- Materi lanjutan 3
+
+Aktivitas:
+- Latihan implementasi
+- Studi kasus
+- Ujian materi lanjutan
+
+Output:
+- Peningkatan skill teknis
+- Hasil evaluasi minggu 2
 
 ---
 
-CONTOH SILABUS (FLASHCAMP FRONTEND)
+### WEEK 3 – PENDALAMAN & PRAKTIK
+**Fokus:** Penguasaan skill melalui latihan intensif
 
-A. Informasi Umum
-Nama Program: Flashcamp Frontend
-Nama Modul: HTML, CSS, JavaScript
-Durasi: 4 hari
-Jadwal: Senin – Kamis
+Materi:
+- Materi lanjutan kompleks
+- Problem solving
+- Integrasi materi sebelumnya
 
-B. Tujuan Pembelajaran
-Peserta memahami dasar frontend
-Peserta mampu membuat website sederhana
+Aktivitas:
+- Task berbasis kasus nyata
+- Latihan project kecil
+- Ujian pendalaman
 
-C. Rencana Pembelajaran
+Output:
+- Skill menengah-advanced
+- Hasil evaluasi minggu 3
 
-Hari 1
+---
 
-Topik: HTML Dasar
-Penjelasan: Struktur website
-Aktivitas: Coding HTML
-Tugas: Buat halaman sederhana
-Output: File HTML
+### WEEK 4 – IMPLEMENTASI & FINAL PROJECT
+**Fokus:** Penerapan seluruh materi dalam project
 
-Hari 2
+Materi:
+- Review seluruh materi
+- Strategi implementasi project
+- Best practice
 
-Topik: CSS Dasar
-Penjelasan: Styling halaman
-Aktivitas: Styling web
-Tugas: Percantik tampilan
-Output: Website dengan CSS
+Aktivitas:
+- Penyusunan project akhir
+- Simulasi implementasi
+- Presentasi hasil
 
-Hari 3
+Output:
+- Final project
+- Penilaian akhir peserta
+- Portfolio hasil belajar
 
-Topik: JavaScript Dasar
-Penjelasan: Interaksi
-Aktivitas: Coding JS
-Tugas: Tambahkan interaksi
-Output: Website interaktif
+---
 
-Hari 4
+## 5. SISTEM EVALUASI
+- Ujian setiap akhir materi (2 hari materi : 1 hari ujian)
+- Penilaian praktik harian
+- Penilaian final project
+- Feedback mentor
 
-Topik: Mini Project
-Penjelasan: Gabungan materi
-Aktivitas: Build project
-Tugas: Buat website
-Output: 1 website sederhana
+---
 
-D. Metode Pembelajaran
-Praktik langsung
-80% praktik, 20% teori
+## 6. OUTPUT AKHIR PESERTA
+- Final project
+- Portfolio hasil kerja
+- Nilai evaluasi keseluruhan
+- Sertifikat (jika berlaku)
 
-E. Tools & Media
-VS Code
-Browser
-Zoom / Discord
-
-F. Evaluasi
-Review task
-Feedback mentor
-
-G. Catatan
-Fokus praktik
-Jangan hanya membaca materi
-### G. Catatan
-- Hal penting untuk peserta:
