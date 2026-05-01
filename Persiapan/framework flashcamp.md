@@ -11,7 +11,7 @@
 | day    | task                                       | deskripsi output                                                       | format   | time      |
 | ------ | ------------------------------------------ | ---------------------------------------------------------------------- | -------- | --------- |
 | senin  | Penentuan alur program (1 tahun)       | Gambaran alur mengenai pembelajaran dari awal hingga akhir program | Markdown | 180 menit |
-| selasa  | Finalisasi konsep program       | Mensahkan konsep program yang siap digunakan sebagai acuan | Markdown | 180 menit |
+| selasa  | Penentuan alur program (1 tahun)       | Gambaran alur mengenai pembelajaran dari awal hingga akhir program | Markdown | 180 menit |
 | rabu  | Penyusunan struktur pembelajaran       | Menyusun alur pembelajaran dari dasar hingga mahir dalam bentuk tahapan | Markdown | 180 menit |
 | kamis  | Penyusunan silabus detail        | Menyusun rincian materi per minggu dan topik pembelajaran | Markdown | 180 menit |
 | jumat  | Penyusunan sistem task & evaluasi        | Menyusun task harian, sistem penilaian, dan evaluasi peserta | Markdown | 180 menit |
@@ -22,7 +22,8 @@
 | Senin  | Penyusunan sistem task & evaluasi      | Menyusun task harian, sistem penilaian, dan evaluasi peserta          | Markdown | 180 menit  |
 | Selasa | Pembuatan template materi & tugas      | Membuat template standar untuk modul dan latihan                      | Markdown | 180 menit  |
 | Rabu   | Pembuatan template materi & tugas      | Membuat template standar untuk modul dan latihan                      | Markdown | 180 menit  |
-| Kamis  | Review & finalisasi kurikulum          | Melihat dan me review kurikulum yang sudah diperbaiki dan siap digunakan                    | Markdown | 180 menit  |
+| Kamis  | Finalisasi konsep program       | Mensahkan konsep program yang siap digunakan sebagai acuan | Markdown | 180 menit |
+| Jumat  | Review & finalisasi kurikulum          | Melihat dan me review kurikulum yang sudah diperbaiki dan siap digunakan                    | Markdown | 180 menit  |
 
 # Step  Setup & Integration
 | day    | task                                       | deskripsi output                                                       | format   | time      |
